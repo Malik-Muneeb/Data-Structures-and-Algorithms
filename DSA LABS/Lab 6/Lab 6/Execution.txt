@@ -1,0 +1,119 @@
+
+Execution time for 100 is: 0
+
+Number of iterations is: 25
+
+Execution time for 1000 is: 0
+
+Number of iterations is: 320
+
+Execution time for 2000 is: 0
+
+Number of iterations is: 1150
+
+Execution time for 3000 is: 0
+
+Number of iterations is: 841
+
+Execution time for 5000 is: 0
+
+Number of iterations is: 5000
+
+Execution time for 7000 is: 0
+
+Number of iterations is: 7000
+
+Execution time for 10000 is: 0
+
+Number of iterations is: 6874
+
+Execution time for 100 is: 0
+
+Number of iterations is: 9700
+
+Execution time for 1000 is: 0
+
+Number of iterations is: 952000
+
+Execution time for 2000 is: 16000
+
+Number of iterations is: 3768000
+
+Execution time for 3000 is: 46000
+
+Number of iterations is: 8607000
+
+Execution time for 5000 is: 157000
+
+Number of iterations is: 24830000
+
+Execution time for 7000 is: 328000
+
+Number of iterations is: 48293000
+
+Execution time for 10000 is: 750000
+
+Number of iterations is: 99110000
+
+Execution time for 100 is: 0
+
+Number of iterations is: 6
+
+Execution time for 2000 is: 0
+
+Number of iterations is: 9
+
+Execution time for 3000 is: 0
+
+Number of iterations is: 9
+
+Execution time for 4000 is: 0
+
+Number of iterations is: 12
+
+Execution time for 5000 is: 0
+
+Number of iterations is: 13
+
+Execution time for 7000 is: 0
+
+Number of iterations is: 12
+
+Execution time for 10000 is: 0
+
+Number of iterations is: 13
+
+Linear Search
+
+Bubble Sort
+
+Binary Search
+
+Merge Sort
+
+Execution time for 100 is: 0
+
+Number of iterations is: 99
+
+Execution time for 1000 is: 0
+
+Number of iterations is: 999
+
+Execution time for 2000 is: 0
+
+Number of iterations is: 1999
+
+Execution time for 3000 is: 0
+
+Number of iterations is: 2999
+
+Execution time for 5000 is: 15000
+
+Number of iterations is: 4999
+
+Execution time for 7000 is: 16000
+
+Number of iterations is: 6999
+
+Execution time for 10000 is: 0
+Number of iterations is: 9999
